@@ -3,18 +3,10 @@
 <title>Avocado Ipsum - The OMEGA-3 of Text Generators</title>
 <meta name="robots" content="noodp,noydir"/>
 <meta name="description" content="Stop using boring Latin-filler Ipsum generators and add some personality to your website. Fill your website with avocado and Mexican cuisine text!"/>
-<link rel="canonical" href="http://avocadoipsum.com/" />
 <meta property="og:locale" content="en_US"/>
 <meta property="og:type" content="article"/>
 <meta property="og:title" content="Avocado Ipsum - The OMEGA-3 of Text Generators"/>
 <meta property="og:description" content="Stop using boring Latin-filler Ipsum generators and add some personality to your website. Fill your website with avocado and Mexican cuisine text!"/>
-<meta property="og:url" content="http://avocadoipsum.com/"/>
-<meta property="og:site_name" content="Avocado Ipsum"/>
-<meta property="og:image" content="http://avocadoipsum.com/avocado.jpg"/>
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:site" content="@thedan1984"/>
-<meta name="twitter:domain" content="Avocado Ipsum"/>
-<meta name="twitter:creator" content="@thedan1984"/>
 <link rel="shortcut icon" href="avocado.ico" />
 <meta name="google-site-verification" content="buSw8T9Z9deBJep-oMq66uu-bezuziV8hQr4_TOUffk" />
 <link rel="stylesheet" type="text/css" media="screen" href="jq.css" />
@@ -124,9 +116,9 @@ return this.each(function() {
 })(jQuery);</script>
 </head>
 <body>
+	
 <div align="center" style="width: 1000px; margin: 0 auto;">
-<img src="http://avocadoipsum.com/avocado.jpg" alt="Avocao Ipsum" title="Avocado Ipsum Text Generator" />
-<br /><br />
+
 <p>&#8220;Lipsum&#8221; is a great way to fill out your website so people can visualize what the page may look like with actual text on it. Traditionally people stuck with latin, but in the recent years, we&#8217;ve seen a growing popularity in niche, or themed text generation. You can find text generators for <a href="http://cupcakeipsum.com/" target="_blank">cupcakes</a>, <a href="http://baconipsum.com/" target="_blank">bacon</a>, and even one for <a href="http://beeripsum.com/" target="_blank">beer</a>!</p>
 <p>This website provides text generation, themed around&#8230; <em>you guessed it!</em> Avocados!</p>
 
@@ -134,46 +126,10 @@ return this.each(function() {
 </div><!--centering div-->
 <div class="ipsum"></div>
 <div align="center" style="width: 1000px; margin: 0 auto;">
-<div class="fb-like" data-href="http://avocadoipsum.com/" data-width="450" data-show-faces="false" data-send="false"></div>
 
-<p style="color: #1a1712; text-align:center;"><a style="color: #1a1712; text-decoration:none; font-weight:bold;" href="http://www.thedan1984.com/" target="_blank">Avocado Ipsum by Dan Bochichio</a></p>
 </div><!--centering div-->
 
 
-<div id="fb-root"></div>
-<p><script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&#038;appId=181706285259431";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6581800-45']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["trackPageView"]);
-  _paq.push(["enableLinkTracking"]);
-
-  (function() {
-    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://thedan1984.com/piwik/";
-    _paq.push(["setTrackerUrl", u+"piwik.php"]);
-    _paq.push(["setSiteId", "5"]);
-    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Piwik Code -->
 </body>
 </html>
 
